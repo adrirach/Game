@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game", "Game\Game.csproj", "{CE9555C2-01F2-4173-B3D2-F9CDDC1C922C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "springfield", "..\springfield\springfield\springfield.csproj", "{16D33F0F-351C-4723-BCBF-DE1782C6D3D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE9555C2-01F2-4173-B3D2-F9CDDC1C922C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE9555C2-01F2-4173-B3D2-F9CDDC1C922C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE9555C2-01F2-4173-B3D2-F9CDDC1C922C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE9555C2-01F2-4173-B3D2-F9CDDC1C922C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16D33F0F-351C-4723-BCBF-DE1782C6D3D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16D33F0F-351C-4723-BCBF-DE1782C6D3D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16D33F0F-351C-4723-BCBF-DE1782C6D3D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16D33F0F-351C-4723-BCBF-DE1782C6D3D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CAFBE3C3-D500-4EB4-8C18-4F7675918130}
+	EndGlobalSection
+EndGlobal
